@@ -1,0 +1,1 @@
+Exploratory use of the bayesflow package for Amortized Bayesian Inference for generative models. `03_Bayesian_DML.ipynb` looks at the application of ABI to a simulation study for the problem of regularization-induced-confounding-free estimation of a causal parameter in a causal bayesian regression.
